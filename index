@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- copyright xd 2021 cancion de Caramella Girls -->
+	<title>Carameldansen</title>
+	<meta charset="UTF-8">
+	<meta name="description" content="caramelldansen" />
+	<meta name="keyword" content="anime, caramella girls, gif anime">
+</head>
+<body background="fondo.gif">
+<nav>
+<!--cancion: Caramella Girls - Caramelldansen-->
+	<audio controls audio src="song.mp3" loop type="audio/mpeg" />
+</nav>
+	<img src="img.gif" height="300px"/>
+	<img src="img2.gif" height="300px"/>
+	<img src="img3.gif" height="300px"/>
+	<img src="img4.gif" height="300px"/>
+	<img src="img5.gif" height="300px"/>
+	<img src="img6.gif" height="300px"/>
+	<img src="img7.gif" height="300px"/>
+	<img src="img8.gif" height="300px"/>
+	<img src="img9.gif" height="300px"/>
+	<img src="img10.gif" height="300px"/>
+	<img src="img11.gif" height="300px"/>
+	<img src="img12.gif" height="300px"/>
+	<img src="img13.gif" height="300px"/>
+	<img src="img14.gif" height="300px"/>
+	<img src="img15.gif" height="300px"/>
+	<br />
+	<cite>Pagina hecha por Justin Aaron</cite>
+	<br />
+	<cite>Cancion hecha por Caramella Girls</cite>
+	<br />
+	<cite>Song; Caramella Girls - Caramelldansen</cite>
+	<hr />
+	<button>©2021</button>
+</body>
+</html>
